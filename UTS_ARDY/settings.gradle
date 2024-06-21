@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "UTS_NATIVE_ARDY"
+rootProject.name = "UTS_NATIVE_FARI"
 include ':app'

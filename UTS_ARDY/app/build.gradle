@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'id.my.ardy.uts_native'
+    namespace 'com.fari.uts_native'
     compileSdk 34
 
     defaultConfig {
-        applicationId "id.my.ardy.uts_native"
+        applicationId "com.fari.uts_native"
         minSdk 24
         targetSdk 34
         versionCode 1
