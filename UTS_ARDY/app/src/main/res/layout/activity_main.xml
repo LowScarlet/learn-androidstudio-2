@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
-        android:text="TEGAR MAULANA FAHREZA"
+        android:text="ARDY RAHMAN"
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
     <TextView
@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
         android:textStyle="italic"
-        android:text="2110031802002"
+        android:text="2110031802038"
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
     <TextView
