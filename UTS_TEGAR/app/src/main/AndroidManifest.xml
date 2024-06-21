@@ -17,19 +17,28 @@
         tools:targetApi="31">
         <!-- TODO Edit This Too -->
         <activity
-            android:name=".activity.author.Activity"
+            android:name=".activity.user.Activity"
             android:exported="true"/>
         <activity
-            android:name=".activity.member.Activity"
+            android:name=".activity.userProfile.Activity"
             android:exported="true"/>
         <activity
-            android:name=".activity.publisher.Activity"
+            android:name=".activity.socialMedia.Activity"
             android:exported="true"/>
         <activity
-            android:name=".activity.category.Activity"
+            android:name=".activity.institution.Activity"
             android:exported="true"/>
         <activity
-            android:name=".activity.book.Activity"
+            android:name=".activity.degree.Activity"
+            android:exported="true"/>
+        <activity
+            android:name=".activity.department.Activity"
+            android:exported="true"/>
+        <activity
+            android:name=".activity.technicalSkill.Activity"
+            android:exported="true"/>
+        <activity
+            android:name=".activity.company.Activity"
             android:exported="true"/>
         <activity
             android:name=".MainActivity"

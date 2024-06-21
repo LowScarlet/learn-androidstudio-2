@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'id.my.ardy.uts_native'
+    namespace 'id.my.lowscarlet.uts_native'
     compileSdk 34
 
     defaultConfig {
-        applicationId "id.my.ardy.uts_native"
+        applicationId "id.my.lowscarlet.uts_native"
         minSdk 24
         targetSdk 34
         versionCode 1
